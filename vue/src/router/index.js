@@ -37,7 +37,7 @@ export const asyncRouterMap = [
         path: 'article',
         name: '文章',
         component: _import('article/article'),
-        meta: {title: '文章', icon: 'example'},
+        meta: {title: '课程', icon: 'example'},
         menu: 'article'
       },
     ]
